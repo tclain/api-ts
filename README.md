@@ -1,7 +1,3 @@
-# See my response in ANSWER.MD :-)
-
-# Busbud Coding Challenge [![Build Status](https://circleci.com/gh/busbud/coding-challenge-backend-c/tree/master.png?circle-token=6e396821f666083bc7af117113bdf3a67523b2fd)](https://circleci.com/gh/busbud/coding-challenge-backend-c)
-
 ## Requirements
 
 Design an API endpoint that provides auto-complete suggestions for large cities.
@@ -16,7 +12,6 @@ The suggestions should be restricted to cities in the USA and Canada with a popu
   - each suggestion has a name which can be used to disambiguate between similarly named locations
   - each suggestion has a latitude and longitude
 - all functional tests should pass (additional tests may be implemented as necessary).
-- the final application should be [deployed to Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 - feel free to add more features if you like!
 
 #### Sample responses
@@ -72,7 +67,6 @@ These responses are meant to provide guidance. The exact values can vary based o
 
 - All code should be written in Javascript
 - Mitigations to handle high levels of traffic should be implemented
-- Challenge is submitted as pull request against this repo ([fork it](https://help.github.com/articles/fork-a-repo/) and [create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)).
 - Documentation and maintainability is a plus
 
 ### References
